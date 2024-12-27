@@ -67,30 +67,3 @@ VALUES
 ('Healthcare'),
 ('Library'),
 ('Finance');
-
-
-
-
-USE parks_and_recreation;
-SELECT * FROM employee_demographics;
-
-SELECT * from employee_salary WHERE first_name = 'Leslie';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
